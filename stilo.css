@@ -1,0 +1,43 @@
+
+#primero{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: hidden  3px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    color:  rgb(66, 21, 134);
+    
+}
+
+.container-general{
+    margin: 20px;
+   
+}
+
+.medio{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    border: hidden 6px;
+}
+
+.uno{
+    
+    height: 400px;
+    width: 400px;
+}
+
+.dos{
+   
+    height: 400px;
+    width: 400px;
+
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
